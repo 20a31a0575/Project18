@@ -22,16 +22,16 @@ Azure technologies used for project
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
+
 ## Screenshots
+![Screenshot (8)](https://github.com/20a31a0575/Project18/assets/109916290/470024be-67df-473a-9d48-85a31953fffb)
 
 
 ### About Us -
-![Screenshot (5)](https://github.com/20a31a0575/Project18/assets/109916290/2fbb63fd-27a3-4496-a62f-405fd606ab1d)
+![Screenshot (9)](https://github.com/20a31a0575/Project18/assets/109916290/33413dc8-7695-4cb2-9cfc-92308b82a1fa)
+
 
 ### Healthbot -
-
-![Screenshot (7)](https://github.com/20a31a0575/Project18/assets/109916290/138a9b1b-26d3-4ec7-99c9-e3aaaadd349a)
-
-
+![Screenshot (10)](https://github.com/20a31a0575/Project18/assets/109916290/b8d90acc-c535-43ae-b1de-db7a7ea815ad)
 
 
