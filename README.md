@@ -23,7 +23,7 @@ Azure technologies used for project
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (1)](https://github.com/20a31a0575/Project18/assets/109916290/0049d6f8-34c3-4481-9f9c-32b24cf8649f)
+
 
 ### About Us -
 ![Screenshot (5)](https://github.com/20a31a0575/Project18/assets/109916290/2fbb63fd-27a3-4496-a62f-405fd606ab1d)
