@@ -1,6 +1,6 @@
 # Project18
 
-# ✨ Health Bot✨
+# ✨ Medical Hospital✨
 This is a web based application developed for health related telugu based website.
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
@@ -33,5 +33,16 @@ Azure technologies used for project
 
 ### Healthbot -
 ![Screenshot (10)](https://github.com/20a31a0575/Project18/assets/109916290/b8d90acc-c535-43ae-b1de-db7a7ea815ad)
+
+### Contact us -
+![Screenshot (12) 1222](https://github.com/20a31a0575/Project18/assets/109916290/7b731664-98e6-4067-ac15-4e87253393c7)
+
+## Tech Stack 
+
+- [Azure(Hosting)]
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 
