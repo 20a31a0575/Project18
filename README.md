@@ -7,7 +7,7 @@ This is a web based application developed for the people to Help them,To Everyon
 
 
 **Project Link** - https://witty-hill-0259f8700.3.azurestaticapps.net
-**project demo video link - 
+**project demo video link - https://youtu.be/fG2s60pBE0M
 
 Azure technologies used for project
 .Static web apps
